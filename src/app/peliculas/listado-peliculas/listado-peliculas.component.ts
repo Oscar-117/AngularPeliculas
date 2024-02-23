@@ -12,7 +12,7 @@ export class ListadoPeliculasComponent implements OnInit {
   peliculas;
 
   ngOnInit(): void {
-    
+   
   }
 
   remover(indicePelicula: number): void{
